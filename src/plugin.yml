@@ -1,0 +1,5 @@
+# HabitatGuard plugin.yml
+name: HabitatGuard
+main: com.gmail.Xeiotos.HabitatGuard.HabitatGuard
+version: 0.0.1
+depend: [HabitatAPI]
